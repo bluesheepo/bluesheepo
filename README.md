@@ -4,7 +4,8 @@
 
 🔎 I enjoy analyzing texts, social media data, and surveys. \
 💡 And using them to study public opinions and behaviours, and how they relate to political systems.  \
-🌱 I am currently learning neural network, NLP, Machine Learning engineering, and many more. \
+📌 By combining academic methodologies with statistical and machine learning methods. \
+🌱 I am currently learning neural network, NLP, machine learning engineering, and many more. \
 😺 I love cycling and cats.
 
 <img align="right" alt="GIF" height="160px" src="http://clipart-library.com/images/piqd4jMyT.gif" />
