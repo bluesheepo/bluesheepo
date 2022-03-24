@@ -3,7 +3,7 @@
 <br>
 
 🔎 I enjoy analyzing texts, social media data, and surveys. \
-💡 And use them to study public opinions and behaviours, and how they relate to political systems.  \
+💡 And using them to study public opinions and behaviours, and how they relate to political systems.  \
 🌱 I am currently learning neural network, NLP, Machine Learning engineering, and many more. \
 😺 I love cycling and cats.
 
